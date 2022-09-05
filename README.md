@@ -3,6 +3,8 @@ Notebooks with essential data science knowledge:
 a tour of python A-Z, some packages like pandas and numpy, 
 statistics from simple concepts to advanced statistical stuff 
 with short descriptions of their intent and functioning.
+
+The 'essential' notebooks from 6-8 cover basic machine learning concepts. 
 If there is a fine online source for further information 
 I included a link.
 

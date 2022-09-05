@@ -4,6 +4,7 @@
 # ignore data files
 *.csv
 *.txt
+*.xlsx
 
 # ignore ALL files in ANY directory named temp
 temp/ 
