@@ -5,9 +5,12 @@
 *.csv
 *.txt
 *.xlsx
+*.json
+*.pdf
 
 # ignore ALL files in ANY directory named temp
-temp/ 
+temp/
+data/
 
 # ignore pictures
 *.png
