@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1UzgxrOvtdJwKui7gbKhzohp5e_WQihSP?usp=sha
 
 The notebooks comprise a ample and growing tour of python from beginner to advanced topics.
 There are introductory notebooks for packages like pandas and numpy.
-Furthermore notebboks filled with statistics for example 
+Furthermore notebooks filled with statistics for example 
 descriptive statistics, distributions, confidence intervals, 
 hypothesis testing, regression, gradient descent etc.
 
