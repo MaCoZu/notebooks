@@ -1,6 +1,9 @@
 # ignore all logs
 *.log
 
+#ignore files
+*.env
+
 # ignore data files
 *.csv
 *.txt
